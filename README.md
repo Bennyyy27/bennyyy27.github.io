@@ -1,1 +1,1 @@
-# benjamin-spiess-github.io
+# benjamin-spiess.github.io
